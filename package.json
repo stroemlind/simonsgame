@@ -1,0 +1,22 @@
+{
+  "name": "simonsgame",
+  "version": "1.0.0",
+  "description": "![CI logo](https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png)",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stroemlind/simonsgame.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/stroemlind/simonsgame/issues"
+  },
+  "homepage": "https://github.com/stroemlind/simonsgame#readme",
+  "devDependencies": {
+    "jest": "^27.4.5"
+  }
+}
